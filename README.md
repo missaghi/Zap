@@ -14,10 +14,10 @@ Windows Server: (static-ish IP or DynDNS)
 
 iOS iPhone
 - OpenVPN connect
-- Zap
+- [Zap](https://github.com/LN-Zap/zap-iOS)
 
 Steps:
-0. Run Pierre's Node Launcher to setup bitcoin node and lighting node.
+0. Run [Pierre's Lightning Node Launcher](https://medium.com/lightning-power-users/easy-lightning-with-node-launcher-zap-488133edfbd) to setup bitcoin node and lighting node.
 1. Setup VPN between your node and phone (openVPN with static IP or DynDNS or mediated like Hamachi)
 2. Configure LND for externalIP
 3. Create Zap connection text using LNDConnect or Node launcher's "Show QR" button when it's ready"
@@ -62,4 +62,6 @@ To run this script I found the easiest way was to:
 Step 4: Hope and pray
 So the first time i set this up I kept getting TLS handshake erros and Zap wouldn't connect on hamachi but it would on OpenVPN, but then an hour later it worked on both... I think LND needs some tweaks to it's cert generation to work better with externalIP which i think is comeing in the next version (see this issue: https://github.com/lightningnetwork/lnd/issues/684)
 
-
+Some other helpful tutorials:
+- https://ln-zap.github.io/zap-tutorials/iOS-remote-node-setup.html
+- 

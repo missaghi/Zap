@@ -21,6 +21,7 @@ iOS iPhone
 1. Setup VPN between your node and phone (openVPN with static IP or DynDNS or mediated like Hamachi)
 2. Configure LND for externalIP
 3. Create Zap connection text using LNDConnect or Node launcher's "Show QR" button when it's ready"
+4. Test it out with this invoice: lightning:lnbc1m1pw97ykwpp5jry9xzz9qxens0e9va72p6ek0j78wmupcrxy4zcgn0l37g650ursdpg2djhgatsypdxzupqv9hxggzvfezzqen0wgs9v5zwcqzysnqrz3q0km07rk6mev5u07dj4fcp99us0gafl2r2pq2u9hp064vtssy93mzyl547l7z60xp8xmmn8ql8vgfcvcpyhmu6xsc3ukyds8jgpuhq4p4
 
 ####Step 0: [Run the node launcher](https://medium.com/lightning-power-users/easy-lightning-with-node-launcher-zap-488133edfbd)
 

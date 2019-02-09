@@ -5,7 +5,7 @@ If you would like to have a lightening wallet on your phone that connects to you
 
 Setting up OpenVPN seemed much harder than it should have for such a fundamental tool. I have a feeling the information is actively obfuscated so that barrier to entry will persuade you to go with one of the fee based VPN providers, aka third parties.
 
-[![Watch the video](https://img.youtube.com/vi/ra8-WnOhoVM/maxresdefault.jpg)](https://youtu.be/ra8-WnOhoVM)
+[![Watch the video](https://img.youtube.com/vi/ra8-WnOhoVM/1.jpg)](https://youtu.be/ra8-WnOhoVM)
 
 Here is the stack:
 

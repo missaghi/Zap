@@ -1,4 +1,4 @@
-# Zap
+# Zap iOS via OpenVPN lnd node
 Running Zap on iOS connected to remote LND on windows via OpenVPN or Hamachi 
 
 If you would like to have a lightening wallet on your phone that connects to your own node running on a server but you don't want to make your server public then you can run a VPN server to put both devices on the same vitual network that's hidden from the outside world.
